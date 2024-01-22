@@ -5,5 +5,5 @@ It stores the code of the following ML algorithms:
     3) Logistic Regression
     4) n- Layer Neural Network for classification
     5) K-Nearest Neighbours
-    6)_ K-Means
+    6) K-Means
 This library can be imported, modified and used by the users.
